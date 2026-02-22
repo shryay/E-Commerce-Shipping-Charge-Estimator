@@ -202,17 +202,3 @@ The API returns appropriate HTTP status codes:
 2. Commit your changes
 3. Push to the branch
 4. Open a pull request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Contact
-
-**Shipping Team**  
-Email: shreya.palit@jumbotail.com
-
----
-
-**Version**: 1.0.0  
-**Last Updated**: February 2026
